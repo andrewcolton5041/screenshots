@@ -1,4 +1,4 @@
-Credits
+Eurocom Entertainment Software
 
 Developed by
 Eurocom Entertainment Software
@@ -1378,4 +1378,5 @@ Fonts licensed from
 T26 Digital Type Foundry
 
 Uses Bink Video. Copyright (C) 1997-2012 by 
+
 RAD Game Tools, Inc.
