@@ -1,0 +1,1381 @@
+Credits
+
+Developed by
+Eurocom Entertainment Software
+
+Production
+Paul Cooke
+Tim Coupe
+Neil Casini
+Jose Luis Garcia Camara
+Rob Matthews
+Michael Robinson
+Marcus Baxendale-Baines
+Richard Benton
+
+Programming
+Chris Coupe
+Dave Buxton
+Phil Callaghan
+Scott Davies
+Ben Lane
+Derek Leigh-Gilchrist
+Chris Pigas
+Dan Scott
+Allan Shortt
+Mat Sneap
+James Wynn
+
+Design
+Adam Smart
+Dan Peake
+John Barker
+Stuart Bee
+Phill Bennett
+Neil Bushnenll
+Steph Charij
+Barry Clark
+Peter Vesti Frendrup
+Edward Fuller
+Jon Garner
+Leigh Griffiths
+Che Hamilton
+Richard Hockey
+Peter Hopkins
+Daniel Kramer
+Tiberius Astianax Lazar
+Daniel Leafe
+James Mitchell
+Kelvin Moore
+Thomas O'Neill
+James Prestwood
+Jamie Small
+Thomas Daniel Smith
+Kieran Teasdale
+Simon Vickers
+Brad Warren
+Henry Golding
+Rafael Hagen Horbach
+Dave Pridmore
+
+Art
+Steve Bamford
+Paul Tempest
+Rob Benton
+David Alonso
+Lee Ames
+Tom Armer
+Andy Bee
+Carl Bilby
+David Broomfield
+Paul Campbell
+Matt Farrell
+Richard Godwin
+Sam Ignasiak
+Jay Malhotra
+Desmond Man
+Matt Marriott
+Elliott McSherry
+Gareth Mooney
+Jon Parr
+Alan Pashley
+Adam Penrose
+Danielle Phillimore
+Nigel Quine-Bentley
+Ant Reeves
+Attar Sagoo
+Joseph Sargent
+Paul Searle
+Mike Simonds
+Daljit Singh
+Anthony Stevens
+Clive Stevenson
+Amanda Stone
+Bastiaan Ten-Berge
+Damien Turland
+James Walters
+Peter Wilkes
+Violetta Wisniewska
+Greg Wisniewski
+Danny Bannister
+Robert Berry
+Dan Burns
+Danny Duke
+Peter Moran
+Mark Ranson
+Luke Shardlow
+
+VFX
+Alex Cole
+Simon Edgar
+David Crossland
+Pieter Mans
+Sergi Salvador Escobar
+Oriol Sans Gomez
+
+Characters
+Steven Gratton
+Anthony Baldwin
+Madina Chionidi
+Oscar Fuertes-Garcia
+Jamie Gibson
+Paul Gregory
+Fred Leullier
+Yuen Sin Ng
+David Croeser
+Hans Johansen
+Andrew Johnston
+Sam King
+Csaba Molnar
+Seth Nash
+Stephen Davison
+Sean Nicholls
+
+Front End
+Colin Garratt
+Gary Baker
+
+Hud
+Colin Garratt
+Gary Baker
+
+Script
+Rob Matthews
+
+Audio
+Steve Duckworth
+Guy Cockcroft
+Duncan Bradshaw
+Jeremy Corbett
+Jim Croft
+Sarah Scott
+Xan Williams
+
+Audio Programming
+Kev Stainwright
+Mark Topley
+
+Animation Manager
+Phillip Hackney
+
+Gameplay Animation
+Nathan Dell
+James Lyons
+Dhanu Muddikuppam
+Gary Ronaldson
+Ollie Trotman
+
+Cutscene Department
+Martin MeBain
+Fu Keung Ip
+Philip Rowe
+Jonathan Whipp
+
+Technical Animation
+Alistair Muir
+Lloyd Hooson
+Ed Richardson
+Mark Alexander Soliven
+Jim Spain
+
+Rigging Department
+Sydney Franklin
+Robert Howes
+Robert Garner
+Simon Scott
+Diganta Talukdar
+
+Facial Department
+Fabrice Visserot
+Mike Boylan
+Timothy Hutton
+Jon Jones
+Ed Peretti
+
+Motion Capture Department
+Tony Wills
+Christopher Darling
+Roisin Hunt
+Andrew Lee
+Kyle Moody
+Antonio Palermo
+Ross Richards
+Geoff Samuel
+
+Motion Capture Director
+John Dower
+
+Motion Capture Performance
+Gordon Alexander
+Liz May Brice
+Kezia Burrows
+Richard Campbell
+Howard Charles
+Alex Childs
+Alan Dennis
+Antony Edridge
+Demetri Goritsas
+John Highton
+Oliver Hollis
+Jonathan Kerrigan
+Nick Maison
+Tony Morley
+Anna Passey
+Jane Perry
+Zara Phythian
+Adam Smith
+Clive Standen
+Yvonne Wandera
+Timothy Watson
+
+Motion Capture Casting Director
+Jimmy Livingstone
+
+QA Animation Department
+James Taylor
+
+Additional Animation
+Fabiana Ciatti
+Haresh Gurbani
+Andrew Murray
+Kuruvilla Varghese
+Danny Wong
+
+Addtional Motion Graphics
+Vector Meldrew
+
+Additional Animation Support
+Sam Humphries
+Wilhelm Ogterop
+Judith Pope
+
+Core Technology
+Chris Jackson
+Ian Denny
+Ashley Finney
+Mark Jackson
+Bob Smith
+Anita Aggarwal
+Craig Bishop
+Franco Bresciani
+Kristian Burgess
+Alex Coster
+Alex Davis
+Susanta Dutta
+Karl Gillott
+Jason Gosling
+Martin Hall
+Lenny Johnson
+Lynn Judkins
+Simon Kirk
+William Mallouk Neto
+Stephen McGlinchey
+Shibu Menon
+Chris Morehen
+David Moulden
+Akin Ocal
+Anis Refouri
+Tim Rogers
+Dianna Tsapanidou
+Michael Valentine
+Lars Verhoeff
+Steven Walker
+Matt Wardle
+Tom Wilson
+James Woollard
+Duncan Young
+
+Quality Assurance
+Richard Charles
+Gideon Small
+Eve Acton
+Peter Borg
+Danny Brockway
+James Cockerham
+William Cox
+Lorraine Craggs
+Stephen Edwards
+Mark Flintstone
+Dominic Hallam
+Ash Hill
+Chris Kenny
+Matt Knifton
+Caven Lee
+James Willem Le Noble
+Caoimhin O'Keeffe
+Dave Redfern
+Keith Turner
+David Weller
+Jack Weston
+
+Review Group Manager
+Steve Norris
+
+Concept Group
+Victor Garrido-Montoya
+Paul Harrison
+Sean Donaldson
+Jake Gumbleton
+
+Additional Concept
+Matt Dixon
+Stuart Jennett
+Jeremy Love
+Mike Manalac
+Rune Vandli
+
+Information Systems
+Dean Soer
+Joe Burmeister
+Andy Dilks
+Mark Hetherington
+Lawrence Li
+Ewan Moore
+Mark Turner
+Annie Wright
+
+Thanks
+Hugh Binns
+Neil Baldwin
+Malcolm Rigley
+Jo Harrison
+Dick Alton
+Kev Holt
+Steve Potts
+Fiona Caldecott
+Carrie Mortimore
+Tony Peach
+Tracey Cruise
+Lauren Dagley
+Alice Letts
+Lauren McPhee
+
+Production Babies
+James William Bee
+Baby Cole
+Isla Holly Farrell
+Jack William Gittus
+Vikita H. Gurbani
+Yseult Astrid Hackney
+Baby Hetherington
+Poppy Ruth Johnson
+Bryan Kuruvilla
+Abigail Tung Li
+Henrietta Kitty Persephone Plum McBain
+Halen William Michael Morley
+Caitlin Grace Moulder
+Max Rowe
+Amy Rose Warren
+Millie Elizabeth Warren
+Malachi Ray Wright
+Sophie Lauren Young
+
+Activision Publishing Minneapolis
+
+Executive Vice President 
+David Oxford
+
+General Manager
+David Oxford
+
+Vice President of Studios
+Scott Bandy
+
+Vice President of Finance
+Kurt Niederloh
+
+Vice President of Sales Strategy
+Jennifer Mirabelli
+
+Vice President of Marketing
+Lori Davis
+
+Executive Assistant
+Margo Chadwick
+
+Production
+
+Vice President, Production
+Tim May
+
+Director, Production
+Trevor Jalowitz
+
+Senior Producer
+Chris Harvey
+
+Producer
+James Steer
+
+Associate Producer
+Dino Verano
+Travis Day
+
+Production Services - Europe
+
+Senior Director of Production Services - Europe
+Barry Kehoe
+
+Senior Localisation Manager
+Fiona Ebbs
+
+Localisation QA Manager
+Mannix Kelly
+
+Localisation Project Manager
+Noel Creighan
+
+Localisation QA Lead
+Jaak Pieterse
+
+Localisation Testers
+Christopher Bugny
+Clory Bugny
+Daniel Stanley
+Daniele Celeghin
+Elise Lesvigne
+Erik Berkowicz
+Guillem Balayer
+Jan Vester
+Jeremy Levi
+Martin Gustafsson
+Micheal Wallace
+Pantxoa Uthurbide
+Simon North
+Sylvain Villedary
+Teresa Mahrer
+Tomas Matousek
+Vidar Nilsen
+
+Burn Room Technicians
+Todd Lambert
+Kamlesh Thurmadoo
+
+IT Network Technician
+Fergus Lindsay
+
+Localisation Tools & Support provided by 
+Stephanie Deming
+XLOC, inc
+
+Quality Assurance
+
+Senior Director of Technology
+Chris Arends
+
+Senior Manager Functional QA
+Jason Lembcke
+
+Functional QA Team Manager
+Justin Westplate
+
+Assistant QA Lead
+Adam Zubrzycki
+
+APM Functional Test Team
+Chris Baugh
+Adam Eickhoff
+Brandon Breuer
+Dean Morrison
+Dillon Thomson
+Dylan Vidas
+Gavin Taggart
+Robert Kleven
+Simon Phuong
+
+TRG Team
+Abe Wellumson
+Alan Denney
+Alex Minette
+Alexander Hofer
+Alexander Ryan
+Alexander Thomson
+Amber Bobeldyk
+Andrew Chatfield
+Ben Manaen
+Braeden Beck-O'Sullivan
+Brandon Merillat
+Brian Franson
+Caleb Bigham
+Casey Hall
+Chris Goldammer
+Chris Jaeger
+Chris Linn
+Daniel Edmond
+David Polakoski
+David Thompson
+Deljon Willis
+Eric Hellen
+Garrett Egge
+Jacob Billstrom
+Jacob Slavik
+Jawara Hughes
+Jimmy Chattin
+Joe Johnson
+Joseph Undis
+Josh Campbell
+Kenneth Siu
+Luke Hall
+Matthew Hensche
+Matthew Ranck
+Matthew Sorenson
+Maxwell Leslie
+McIsiah Kendema
+Michael Yearneau
+Nick Mengis
+Niko Simmons
+Richard Stanz
+Robert Brace
+Robert Svobodny
+Ryan Tunner
+Scott Burlingame
+Sean Carlson
+Sean Hegdahl
+Seth Campbell
+Thomas Chambers
+Tim Schnirring
+Travis Martin
+Troy Thomas
+Wyatt Nelson
+
+Online Manager
+Dean Fingerholz
+
+Online Senior Lead
+John Hart
+
+Online Test Lead
+Brandon Berg
+Megan Brophy
+
+Senior Tester
+Christopher Figueroa
+Jeff Brown
+Tyler Gustafson
+Tyler Sampson
+
+Online Testers
+Mike Barrett
+Ben Brock
+Alex Brickner
+Steve Momcilovic
+Chris Hoferkamp
+Elliot Tan
+Toby Hurtubise
+William List
+Stephen Porapenko
+Ben Schoper
+Kyle Dishaw
+Tannilen Reagan
+Bryan Olson
+Jacob Tompson
+Mathew Roppe
+James Kong
+Jesse Boessel
+Scott Bullard
+Blake Rosen
+Jordan Hastings
+Alex Konean
+Joe Larson
+Bill Anderson
+Dom Ghilani
+Ken Krueger
+Kyle Bowman
+Dustin Lindquist
+Patrick Manhatton
+Dmitriy Shirshov
+Ryan Mattson
+Ryan Seifert
+Weston Gill
+Sam Hooper
+Thomas Mariette
+Aaron Pikala
+Donyea Cooley-White
+Corey Schmitz
+Zach Pint
+Jacob Watson
+Sharlene Michaelis
+Todd Bluhm
+Will Harren
+Cortez Owens
+Erin Facile
+Andrew Johnson
+
+Functional Quality Assurance Team, Quebec
+
+Senior Director, Quality Assurance
+Christopher D. Wilson
+
+Directors, Quality Assurance
+Matt McClure
+Jason Wong
+
+QA Project Lead
+Thierry Vaillancourt
+
+QA Associate Project Leads
+Christian Ménard
+Dominic Parent
+Marie-Claude Blais
+Martin Beauvais
+Kévin Paré-Vigneux
+
+QA Floor Leads
+Raphael Richard
+Frédéric Garneau
+Jimmy Légaré
+Jean-Michel Vincent
+
+QA Testers
+Alec Thibault
+Alex Tremblay
+Alexandre Dufour-Fournier
+Alexandre Giroux
+Alexandre Lafond
+Alexandre Ouellet
+Alexandre Martel-Brunet
+Alexandre Massicotte
+Alexandre Mathieu-Plante
+Alexandre Parent
+Alexis Asselin-Dufour
+Alice Giroux-Robitaille
+Andréanne St-Pierre
+Anthony Therrien
+Audrey Savard
+Benjamin Randall
+Bianca Thériault
+Bilal Dekhili
+Carolanne Plourde
+Catherine Bérubé
+Catherine Guerin
+Charles Potvin
+Charles Rainville
+Christian Giroux
+Christian Morin
+Christine Turcotte
+Cindy Villeneuve
+Cody Nutbrown
+Colin McBain
+Daniel Gagné
+Daniel Kent Lachance
+Dany Paquet
+Dave Couture
+Dave Roussy
+David Blondeau
+David Gosselin
+David Huot
+Djamel Caufriez
+Dominic Labbé
+Dyden Ung
+Dylan Daggett
+Eddy Marchal
+Eric Bond
+Eric Langlais
+Eric Pouliot
+Érick Tessier
+Estelle Fréchette
+Étienne Blondeau
+Étienne Leclerc
+Faruk Kastrati
+Francis Chandonnet
+Francis Delaney
+Francis Giroux-Joseph
+François Lehoux
+François Pronovost
+François-Xavier Bélanger
+Frederic Dubois
+Frederic Tailleur
+Frédérick Pellerin
+Frédérik Paré
+Gabriel L'Allier
+Gabriel St-Laurent
+Gabriel Taca-Aubé
+Gabriel Vézina
+Gabrielle Gosselin
+Guillaume-Olivier Duchesne
+Harley Young
+Heidi Nadeau
+Hélène Côté
+Henrick Pelletier
+Hugo Marcotte
+Hugo Roche
+Ismaël Blouin-Marcoux
+Ismaël Gendreau
+Izaroze Néron-Gauthier
+Janne Richard
+Jason Beaulieu
+Jean-Félix Dubé
+Jennifer Bussières
+Jérémie Langevin
+Jérôme Couture
+Jérôme Lemieux-Truchon
+Jérôme Richard
+Jessica DeBlois
+Jessica Desrosiers
+Jessica Moreau-Roberge
+Jessie States
+Jimmy Chabet
+Jimmy Martineau
+Johany Emond-Guay
+Jonathan Huot
+Jourdain-Pier Lelièvre
+Julien Dufour
+Julien Gauthier
+Julien Saindon
+Keven Picard-Labonte
+Kim Valcourt
+Laurence Dubé
+Lendy Bergeron
+Louis Blanchet
+Louis-Julien Paquette
+Louis-Olivier St-Pierre
+Louis-Philippe Gobeil
+Marc-André Morin
+Mathieu Berthiaume
+Mathieu Hunter
+Marc-Antoine Duguay
+Marc-Antoine Poulin
+Marc-Antoine Provost Brunelle
+Mario Almaguer
+Martin Richard-Cerda
+Martin Tessier
+Matthew Pearce
+Mathieu Simard
+Mathieu Simard-Audet
+Matthieu Bélanger
+Matyah Noel
+Maxim Fournier
+Maxime Malenfant
+Maxime Monarque Tremblay
+Melanie Gaudreault
+Michaël Boily
+Michael Christensen
+Michael Gagnon-Poulin
+Michael Nolin
+Michel Plounde
+Michèle Bergeron
+Nancy Demers
+Nicolas Drapeau
+Nicolas Potvin
+Normand Désilets
+Olivier Latouche
+Olivier LeGendre
+Omar Guerrero de la Cruz
+Owen Nolan
+Pascal Ricard
+Patrick Jodaens
+Philippe Cimon
+Pierre Moreau
+Pierre-Alexis Bourgoin
+Pierre-Luc Cormier
+Rémi Gosselin
+Rocky Drolet Croteau
+Romy Caron
+Sabrina Cloutier
+Samuel Dussault
+Samuel Franck
+Sebastien Nadeau
+Sébastien St-Pierre
+Simon Lapierre
+Stéphane Laesser
+Steve Lepage
+Trinh Le
+Vincent Beaulieu
+Vincent Lachance
+Vincent Petit
+Vincent Poirier
+Xavier Robitaille
+Yann Labrie
+Yannick Bolduc
+Yannick Plourde
+Yannick Wunderlin Girard
+
+QA Lead Database Administrator
+Jean-François Le Houillier
+
+QA Database Specialists
+Dany Paquet
+Émilie Saindon
+Frédéric Garneau
+Guillaume Gauthier
+Guillaume Rochat
+Jean-François Giguère
+Karine Windy Boudreault
+Lukaël Bélanger
+Mathieu Simard
+Pier-Luc Poulin
+Sébastien Dusseault
+
+QA Senior Project Leads
+Robin 0dlum
+Simon Duquet-Galarneau
+
+QA Manager
+Jonathan Piché
+
+QA IT Lead
+Etienne Dubé
+
+QA IT Technicians
+Nicolas M. Careau
+Stéphane Elie
+Hugo Roy
+
+Admin Technician
+Josée Laboissonnière
+
+HR Manager
+Antoine Lépine
+
+QA Technology Group
+
+SR. Manager, QA Technologies
+Indra Yee
+
+QA Applications Programmers
+Ari Epstein
+Brad Saavedra
+
+QA Database Administration Group
+
+Senior Lead Database Administrator
+Jeremy Richards
+
+Lead Database Administrator
+Kelly Huffine
+
+QA-MIS Senior Technician
+Brian Martin
+
+QA-MIS Technicians
+Kai Hsu
+Teddy Hwang
+
+QA Audio Visual Lab
+
+QA AV Lab Senior Tester
+Cliff Hooper
+
+QA AV Lab Tester
+Christian Vasco
+
+Customer Care
+
+Senior Director, Customer Care
+Tim Rondeau
+
+Senior Manager, Service Design and Supportability
+Paul Boustany
+
+Senior Manager, Self Service and Technology Operations
+Melanie Marcell
+
+Senior Manager, Service Delivery and Advocacy
+Noel Feliciano
+
+Senior Manager, Player Engagement
+Khalid Asher
+
+Manager, Service Delivery International
+Christiane Brand
+
+Customer Experience Program Managers
+Chuck McNamee
+Kevin Crawford
+Samantha Wood
+
+Supervisor, Escalation Support
+Russell Johnson
+
+Supportability Analyst
+Kirk McNesby
+
+Customer Care Coordinators
+Guillermo Hernandez
+Jeff Walsh
+Mike Dangerfield
+Sjoerd van den Berg
+
+Project Manager
+Philip Chung
+
+Web Content Producer
+Julia Carpenter
+
+User Experience Producer
+Julia Carpenter
+
+Knowledgebase Management
+Sam Akiki
+
+Content Coordinator
+T'Challa Jackson
+
+Associate Supportability Engineer
+Jonathan Albaugh
+
+Associate Systems Analyst
+Quang Tran
+
+QAF Special Thanks
+Éric Demers
+Francis Gagnon
+Geneviève Côté
+Geneviève Morency
+Jack
+Zoe
+Louis-Thomas Beland
+Marie Grenier
+Mathieu Pépin-Robitaille
+Patrick Holton
+Pierre Moreau (Peteur)
+Sam
+Eddie
+
+User Testing
+
+User Testing Coordinator
+Rasheem Harris
+
+User Testing Analyst
+Brian Campbell
+
+Information Technology
+
+IT Manager
+Jeff Ward
+
+IT Representative
+Madison Meahyen
+
+Burn Room Lead
+Shannon Cross
+
+Compliance Lead 
+Shannon Cross
+
+Activision Installer Group
+
+Associate Producer
+Christopher Codding
+
+Release Engineer
+Kimberly Carrasco
+Ryan Ford
+
+Sales
+
+Sales Coordinator
+Patty Ferris
+
+Global Brand Management
+
+Director of Marketing
+Vicharin Vadakan
+
+Brand Manager
+Sonal Gerten
+
+Associate Brand Manager
+Kristen Andriacchi
+Megan Kubacki
+
+Creative Services Manager
+Julia Aguirre
+
+Marketing Coordinator
+Liza Huber
+
+Graphic Artist
+Mike McDonough
+
+Senior Production Artist
+Sean James
+
+Production Artist
+Jerry Hallberg
+
+Multimedia Editor
+Brandon Gingerich
+Kyle Kehrwald
+
+Retail Marketing Manager
+Ryan Lacina
+
+Associate Retail Marketing Manager
+Nupur Saxena
+
+General Manager, Europe
+David Tyler
+
+Marketing Director, Europe
+Laura Lombardi
+
+Vice President, Consumer Media Channels
+Amy Stettler
+
+Corporate Communications
+
+SR. Director, Public Relations
+Michelle Schroder
+
+SR. PR Manager
+MacLean Marshall
+
+SR. PR Manager, Europe
+Tim Ende-Styra
+
+SR. Publicist
+Lindsay Morio
+
+Special Thanks:
+Karen Yi
+
+Operations and Supply Chain
+
+Director Of Operations and Planning
+Mike Groshens
+
+Senior Manager Studio Operations
+Deborah Haight
+
+Supply Chain Operations Manager
+Nikki Mak
+
+Supply Chain Project Manager
+Amber Rose
+Jonathan Lomibao
+
+Facilities & Operations Coordinator
+Monica Hill
+
+Legal
+
+Senior Counsel
+Amanda O'Keefe
+Brandon Young
+Chris Cosby
+Chris Scaglione
+Kelly Schwarm
+
+Licensing
+
+Director of Licensing
+Andy Koehler
+
+Finance
+
+Director of Finance
+Erik Gunderson
+
+Justin Ronning
+
+Finance Manager
+Janet Paulsen
+
+Senior Accountant
+Ann Williamette
+
+Senior Financial Analyst
+Jeremy Barker
+
+Financial Analyst
+Justin Lane
+
+Production Payment Coordinator
+Jennifer Tyley
+
+Human Resources
+
+Director of Human Resources
+Micheal Bitzan
+
+Manager of Human Resources
+Tanya Berg
+
+Human Resources Recruiter
+AnaMaria Weiland
+
+Special Thanks
+
+Special Thanks
+Bob Loya
+Dan Winters
+Max Morais
+Michael Bache
+Michelle Scott
+Tim May
+
+Online Support/Services
+
+By
+DemonWare
+
+Original Score
+
+Theme
+David Arnold
+
+Score
+Kevin Kiner
+
+Script
+
+Written by
+Bruce Feirstein
+
+Voice Overs
+
+Actors
+Timothy Watson (James Bond and Auric Goldfinger)
+Judi Dench (M)
+Rory Kinnear (Tanner)
+Demetri Goritsas (Felix Leiter)
+Naomie Harris (Eve)
+Natasha Little (Pussy Galore)
+Orion Lee (Mr. Ling)
+Glenn Wrage (Blofeld)
+Nicola Walker (Teresa di Vicenzo)
+Antony Edridge (Marc Ange Draco)
+Rob David (Franz Sanchez)
+Carey Lowell (Pam Bouvier)
+Vincent Carmichael (Alfonso)
+Madalena Alberto (Jinx)
+Toby Stephens (Gustav Graves)
+Jason Wong (Zao)
+Jane Perry (Dr. Goodhead)
+Michael Lonsdale (Hugo Drax)
+
+Additional Voices
+Gyuri Sarossy
+James Goode
+Jane Perry
+Jason Wong
+Jen Bradshaw
+Joseph May
+Joseph Balderrama
+Lauren Dagley
+Luis Soto
+Madalena Alberto
+Nicholas Boulton
+Nick Fletcher
+Nigel Whitmey
+Ollie Hollis
+Orion Lee
+Paul Hyu
+Peter Stark
+Richard Cant
+Rob Matthews
+Rob David
+Stephane Cornicord
+Stephen Hoo
+Timothy Watson
+Todd Boyce
+Trevor White
+Velibor Topic
+Vincent Carmichael
+
+Side
+
+Casting
+Side UK
+
+Voice Direction
+Side UK
+
+SOUND PRODUCTION
+SIDE London
+
+Performance
+SIDE London
+
+Production Manager
+Sini Downing
+
+Casting
+Cheryl Prince
+Sini Downing
+
+Voice Recording Engineer
+Ant Hales
+
+Post Production Supervisor
+Duncan Gillies
+
+Cinematics
+
+Opening Credits Sequence
+NoodleHaus
+
+EON/DANJAQ LLC
+
+Executive Producer
+David G. Wilson
+
+Special Thanks
+Barbara Broccoli
+Michael G. Wilson
+David Pope
+Keith Snelgrove
+Gregg Wilson
+Michael Tavares
+Sara Aghdami
+
+MGM STUDIOS - INTERACTIVE
+
+MGM Studios - Interactive
+Juli Logemann
+
+LICENSED MUSIC
+
+
+"Goldfinger" Written by 
+John Barry (BMI)
+
+"Goldfinger" Published by 
+Sony/ATV Songs LLC (BMI)
+
+"On Her Majesty's Secret Service" Written by 
+John Barry
+
+"On Her Majesty's Secret Service" Published by 
+EMI U Catalog Inc. (ASCAP)
+
+Demonware
+
+Demonware
+John Allen
+Nadia Alramli
+Ruy Asan
+Edward Baker
+Kathryn Baker
+David Ballano Fernandez
+Miroslaw Baran
+Gustavo Baratto
+Patrick Barrington
+Rick Barzilli
+Annie Bennett
+Rashid Bhamjee
+David "REspawn" Brennan
+Morgan Brickley
+Don Browne
+Jaime Buelta
+Luke Burden
+Graharn Campbell
+Lee Casi
+Stephanie Cates
+Riley Chang
+Martin Clarke
+Nicola Colleran
+Michael Collins
+Owen Corrigan
+Colin Cox
+Alex Couture-Beil
+Lok Crystal Koo
+Marian Cullen
+Tim Czerniak
+Stephanie Dean
+Colin Deasy
+Richard Delaney
+Sinead Devereaux
+Brendan Dillon
+Tyler Dixon
+Malcolm Dowse
+Stephane Dudzinski
+Dmytro Dyachuk
+Matthew Edwards
+David Falloon
+Brendan Fields
+Christian Flodihn
+Jonathan Frawley
+Ellie Frost
+Azamat Galimzhov
+Siobhan Golden
+Arthur Green
+Padraic Hallinan
+John Hamill
+Conor Hennessy
+Sterling Hoeree
+Graeme Humphries
+Ryan Hunter
+Steffen Higel
+Travis Kay
+Eli Kazmirouk
+Tony Kelly
+Colleen Keyland
+John Kirk
+Gordon Klok
+Allan Kumka
+Lance Laursen
+Youhua Li
+Daniel Lin
+Roman Lisagor
+Garrett Lynch
+Gerald Magnusson
+Patrick Mamaid
+Damien Marshall
+Tendayi Mawushe
+Michele Mazzucco
+Rob McAdoo
+Emma McBreen
+Ciaran McCann
+Catherine McCarthy
+Mark McGree
+Craig McInnes
+Liam MacInnes
+Duncan McNab
+Francisco Garcia Miranda
+Christopher Mueller
+Faham Negini
+Nic Nero
+Jonathan Neufeld
+Y Nguyen
+Erik Niklas
+Hugh Nowlan
+Sean O'Donnell
+Sean O'Sullivan
+Adrian Oliver
+Tim Patterson
+Craig Penner
+Byron Pile
+Andrey Polakov
+Joseph Power
+Ruaidhrí Power
+Henry Precheur
+Dara Price
+Gary Quan
+Gary Rafter
+Yunduz Rakhmangulov
+Lisa Reilly
+Stefan Reimer
+Wendy Robillard
+Nic Roland
+Davide Romani
+David Ruane
+Vladimir Ryzhov
+Matthew Sawasy
+Parvinder Singh Grewal
+Amy Smith
+Evan Smith
+Fei Song
+Kale Stedman
+Tao Su
+Adam Talsma
+Craig Thompson
+Stefan Tjarks
+Michael Tom Wing
+Vladislav Titov
+Max Vizard
+Jason "Hagao" Wei
+Christie Wilson
+Joyce Wu
+Woosley Xu
+Woody Yang
+Steven Young
+Allen Zhang
+
+Fonts licensed from 
+T26 Digital Type Foundry
+
+Uses Bink Video. Copyright (C) 1997-2012 by 
+RAD Game Tools, Inc.
